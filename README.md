@@ -1,2 +1,3 @@
-# Jestpractice
-testing practice using jest
+# Jest/ Testing practice
+
+Practiced using jest to test different basic functions.
